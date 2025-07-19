@@ -30,8 +30,8 @@
 | Chow Chun Ting   | jaychow603@gmail.com  |
 | Lu Yuk Tong      | luyuktong@gmail.com   |
 
-## **Supervisor**
-**Mr. Jimmy Kang**  
+## **Acknowledgments**
+**Supervisor: Mr. Jimmy Kang**  
 Email: [xkang@hkmu.edu.hk](mailto:xkang@hkmu.edu.hk)
 
 ## **Datasets**
